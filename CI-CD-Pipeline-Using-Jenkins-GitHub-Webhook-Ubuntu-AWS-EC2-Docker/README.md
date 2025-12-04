@@ -30,7 +30,7 @@
 ```bash
 $ npm install
 ```
-
+#deploy
 ## Compile and run the project
 
 ```bash
